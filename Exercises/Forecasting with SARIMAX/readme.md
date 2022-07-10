@@ -9,7 +9,7 @@ This can also run in [Google Colabs](colab.research.google.com).
 
 ### -A set of exercises that I have answered as to represent my skills in machine learning using Python with SciKit-learn such as:
 - Split data set to training sets and test sets for the model.
-  - ![](images/hab2.png)
+  - ![](images/hab2.PNG)
 - Knowing the data's description if there is trend, seasonality, and others with Seasonal Decomposition Plots.
   - ![](images/show1.png)
 - Optimize a model with Pyramid Auto-Arima, to find optimal paramaters for it.
