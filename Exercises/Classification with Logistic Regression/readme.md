@@ -1,4 +1,4 @@
-# Classification with Logistic
+# Classification with Logistic Regression
 #### DISCLAIMER: This is part of our exercises in Elective Subject as BSCpE students. Credits go to our professor, Dr. Renato R. Maaliw III.
 Data sets used are available in our professor's GitHub Page, https://github.com/renatomaaliw3/public_files/tree/master/Data%20Sets .
 
