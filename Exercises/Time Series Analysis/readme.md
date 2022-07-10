@@ -8,7 +8,7 @@ To run this notebook, Python 3 and Jupyter Notebook should be installed, which a
 This can also run in [Google Colabs](colab.research.google.com).
 
 ### -A set of exercises that I have answered as to represent my skills in data analysis using Python with StatsModels such as:
-- Importing Data from CSV file to Pandas' DataFrame, with Parsed date data.
+- Importing data set with parsed date data.
   - ![](images/HAB.png)
 - Time Series Analysis with Simple Moving Average.
   - ![](images/show1.png)
