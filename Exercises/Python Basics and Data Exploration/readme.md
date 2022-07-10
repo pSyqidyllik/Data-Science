@@ -8,6 +8,8 @@ To run this notebook, Python 3 and Jupyter Notebook should be installed, which a
 This can also run in [Google Colabs](colab.research.google.com).
 
 ### -A set of exercises that I have answered as to represent my skills in basic Python programming, application of it with Math problems, along with data exploration like:
+- Importing data from CSV file to Pandas' DataFrame.
+  - ![](images/hab.png)
 - Showing certain information about the data set.
   - ![](images/show.png)
 - Answering questions about set of data. 
