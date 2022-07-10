@@ -7,7 +7,7 @@ To run this notebook, Python 3 and Jupyter Notebook should be installed, which a
 
 This can also run in [Google Colabs](colab.research.google.com).
 
-#### -A set of exercises that I have answered as to represent my skills in data analysis using Python with StatsModels such as:
+### -A set of exercises that I have answered as to represent my skills in data analysis using Python with StatsModels such as:
 - Time Series Analysis with Simple Moving Average.
   - ![](images/show1.png)
 - Utilizing and comparing different Time Series Analysis Models like Double Exponential Smoothing (DES), TES, etc... 
