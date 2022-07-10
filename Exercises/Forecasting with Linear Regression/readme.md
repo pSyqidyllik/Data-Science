@@ -8,7 +8,7 @@ This can also run in [Google Colabs](colab.research.google.com).
 
 
 ### -A set of exercises that I have answered as to represent my skills in data science using Python with SciKit-learn such as:
-- Knowing the feature with apparent correlation from Seaborn Pairplot.
+- Knowing the feature of a data set with apparent correlation from Seaborn Pairplot.
   - ![](images/show1.png)
 - Training a model like Linear Regression, with given data set. 
   - ![](images/show2.png)
