@@ -6,6 +6,7 @@
 
 *This can also run in [Google Colabs](colab.research.google.com).*
 
+<br><br>
 
 ### -A set of exercises that I have answered as to represent my skills in machine learning using Python with SciKit-learn such as:
 - Splitting data set to training sets and test sets for appropriate model like data with linearity, for prediction.
