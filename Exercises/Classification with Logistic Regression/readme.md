@@ -6,6 +6,8 @@
 
 *This can also run in [Google Colabs](colab.research.google.com).*
 
+<br><br>
+
 ### **-A set of exercises that I have answered as to represent my skills in data analysis using Python with SciKit-learn such as:**
 - Classifying a given set of features to a binary class. Features could either be from data set, or manually encoded.
   - ![](images/show2.PNG)
