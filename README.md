@@ -1,4 +1,4 @@
-# Data Science (Exercises/Case Studies)
+# Data Science Exercises/Case Studies
 #### *DISCLAIMER: These are part of our exercises in Elective Subjects as BSCpE students. Credits go to our professor, Dr. Renato R. Maaliw III.*
 *Data sets used are available in our professor's GitHub Page, https://github.com/renatomaaliw3/public_files/tree/master/Data%20Sets .*
 
