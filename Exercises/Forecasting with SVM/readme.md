@@ -6,6 +6,7 @@
 
 *This can also run in [Google Colabs](colab.research.google.com).*
 
+<br><br>
 
 ### -A set of exercises that I have answered as to represent my skills in Statistics Learning using Python with SciKit-learn such as:
 - Splitting data set with Scikit-learn's method, which could work for models like this one, and some classification models.
