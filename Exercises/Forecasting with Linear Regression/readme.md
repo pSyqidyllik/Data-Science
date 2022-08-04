@@ -5,6 +5,7 @@
 *To run this notebook, Python 3 and Jupyter Notebook should be installed, which are both available in [Anaconda Package](https://www.anaconda.com/products/distribution).*
 *This can also run in [Google Colabs](colab.research.google.com).*
 
+<br><br>
 
 ### -A set of exercises that I have answered as to represent my skills in data science using Python with SciKit-learn such as:
 - Knowing the feature of a data set with apparent correlation from Seaborn Pairplot.
