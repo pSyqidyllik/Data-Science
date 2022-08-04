@@ -11,7 +11,7 @@
 ### -A set of exercises that I have answered as to represent my skills in basic Python programming, application of it with Math problems, along with data exploration like:
 - Importing data from CSV file to Pandas' DataFrame.
   - ![](images/hab.png)
-- Showing certain information about the data set.
+- Showing certain information about the dataset.
   - ![](images/show.png)
 - Answering questions about set of data. 
   - ![](images/show2.png)
