@@ -8,7 +8,7 @@
 
 <br><br>
 
-### -A set of exercises that I have answered as to represent my skills in machine learning using Python with SciKit-learn such as:
+### -A set of exercises that I have answered as to represent my skills in machine learning using Python with Pyramid ARIMA (Auto-Regressive Integrated Moving Average) such as:
 - Splitting data set to training sets and test sets for appropriate model like data with linearity, for prediction.
   - ![](images/hab2.PNG)
 - Knowing the data's description if there is trend, seasonality, and others with Seasonal Decomposition Plots.
